@@ -8,7 +8,7 @@ celery==4.2.1
 certifi==2018.11.29
 chardet==3.0.4
 decorator==4.3.2
-Django==2.0.10
+Django==2.2.13
 django-adminlte==1.2
 django-adminlte2==0.4.1
 django-appconf==1.0.2
